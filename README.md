@@ -1,5 +1,5 @@
 ## Participantes
-Cursistas do Grupo de Estudos Formadores em Ação de Pensamento Computacional 2023 do GE Formadores em Ação - TURMA E
+Cursistas do Grupo de Estudos Formadores em Ação de Pensamento Computacional 2023 do GE - TURMA E
 
 ## Linguagem utilizada
 
