@@ -1,0 +1,13 @@
+body{margin-top: 05%;
+background-color:hsl(0, 2%, 82%);
+margin-left: 05%;
+margin-right: 05%;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: #0fd6ecea;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(249, 249, 250)
+}
